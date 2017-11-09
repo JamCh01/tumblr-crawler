@@ -14,5 +14,6 @@ PROXIES = {
 }
 ```
 修改为自己的 proxy 信息
-
+```
 python(2|3) ripper.py --name 小姐姐的名字
+```
